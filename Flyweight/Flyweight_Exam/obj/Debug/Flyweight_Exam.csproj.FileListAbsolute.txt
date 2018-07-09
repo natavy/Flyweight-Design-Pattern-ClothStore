@@ -1,0 +1,7 @@
+C:\Users\NATASHA\source\repos\Flyweight_Exam\Flyweight_Exam\bin\Debug\Flyweight_Exam.exe.config
+C:\Users\NATASHA\source\repos\Flyweight_Exam\Flyweight_Exam\bin\Debug\Flyweight_Exam.exe
+C:\Users\NATASHA\source\repos\Flyweight_Exam\Flyweight_Exam\bin\Debug\Flyweight_Exam.pdb
+C:\Users\NATASHA\source\repos\Flyweight_Exam\Flyweight_Exam\obj\Debug\Flyweight_Exam.csprojResolveAssemblyReference.cache
+C:\Users\NATASHA\source\repos\Flyweight_Exam\Flyweight_Exam\obj\Debug\Flyweight_Exam.csproj.CoreCompileInputs.cache
+C:\Users\NATASHA\source\repos\Flyweight_Exam\Flyweight_Exam\obj\Debug\Flyweight_Exam.exe
+C:\Users\NATASHA\source\repos\Flyweight_Exam\Flyweight_Exam\obj\Debug\Flyweight_Exam.pdb
